@@ -25,3 +25,6 @@ Based on user input (name of Pokemon):
 | Sea               | Rigging     |
 | Urban             | City Center |
 | Waters-edge       | Beach       |
+
+## Link to Deployed Site
+[Project 1](https://saigonomai.github.io/Project1Team5/)
